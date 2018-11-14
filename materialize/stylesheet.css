@@ -1,17 +1,17 @@
 /*body{
-	background: url(https://preview.ibb.co/mWOAAL/The-Class-of-Roseway-High-School.png) no-repeat center center fixed; 
+	background: url(https://preview.ibb.co/cHV0HK/Cs_club_logo.png) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 }
-
 */
+
 body{
-	background-color: rgb(246, 234, 78);
+	background-color: black;
 }
-img {
-    width: 100%;
+img {#feb236
+    width: 10%;
     height: auto;
 }
 .slider li img{max-width:100%;height:auto;}
